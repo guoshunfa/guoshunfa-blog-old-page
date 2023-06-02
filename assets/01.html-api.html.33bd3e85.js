@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app.4659d0e0.js";const r={},s=e("h1",{id:"html-api记录",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#html-api记录","aria-hidden":"true"},"#"),o(" html api记录")],-1),_=[s];function i(n,h){return a(),c("div",null,_)}const d=t(r,[["render",i],["__file","01.html-api.html.vue"]]);export{d as default};

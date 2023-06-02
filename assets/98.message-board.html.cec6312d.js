@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as t,a as e,b as o}from"./app.4659d0e0.js";const r={},c=e("h1",{id:"留言板",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#留言板","aria-hidden":"true"},"#"),o(" 留言板")],-1),_=[c];function n(d,i){return s(),t("div",null,_)}const l=a(r,[["render",n],["__file","98.message-board.html.vue"]]);export{l as default};

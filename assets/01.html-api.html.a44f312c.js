@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-08655ba1","path":"/md/rd/basic/front-end/html/01.html-api.html","title":"html api记录","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1684811640000,"contributors":[{"name":"guoshunfa","email":"13301203454@163.com","commits":1}]},"filePathRelative":"md/rd/basic/front-end/html/01.html-api.md"}');export{t as data};
